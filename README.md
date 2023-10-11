@@ -1,0 +1,2 @@
+# figurebed
+obsidian图床
